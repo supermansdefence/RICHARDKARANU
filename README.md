@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @RICHARDKARANU
-- 👀 I’m interested in Data science,Deep learning,Machine Learning,Full stack development
-- 🌱 I’m currently learning Javascript,Ruby,Python
-- 💞️ I’m looking to collaborate on Full stack development projects
-- 📫 Reach me though email: officialforrichardK@gmail.com or karanur236@gmail.com
+- 👀 I’m a senior full stack engineer
+- 🌱 I’m currently using Typescript, C++ and Unreal
+- 💞️ I’m looking to collaborate on Game development projects
+- 📫 Follow me on X @richiemb
 
 <!---
 RICHARDKARANU/RICHARDKARANU is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
